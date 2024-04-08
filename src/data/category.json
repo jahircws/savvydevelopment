@@ -1,0 +1,605 @@
+{
+    "id": 1,
+    "name": "eat-play-shop-travelcategories-203724",
+    "info": {
+        "subscription": [
+            "eat",
+            "play",
+            "shop",
+            "travelcategories"
+        ],
+        "results": 118
+    },
+    "categories": [
+        {
+            "category_key": 39,
+            "category_name": "Dining & Food",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 44,
+            "category_name": "Hotel",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 45,
+            "category_name": "Shopping",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 48,
+            "category_name": "Golf",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 50,
+            "category_name": "Services",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 51,
+            "category_name": "Automotive",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 53,
+            "category_name": "Health & Beauty",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 54,
+            "category_name": "Condos & Resorts",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 55,
+            "category_name": "Ski & Snowboard",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 56,
+            "category_name": "Movies",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 58,
+            "category_name": "Car Rental",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 59,
+            "category_name": "Entertainment & Recreation",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 60,
+            "category_name": "Cruises & Tours",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 1000,
+            "category_name": "Auto Body & Paint",
+            "category_parent_key": 51
+        },
+        {
+            "category_key": 1001,
+            "category_name": "Auto Parts",
+            "category_parent_key": 51
+        },
+        {
+            "category_key": 1002,
+            "category_name": "Auto Service & Repair",
+            "category_parent_key": 51
+        },
+        {
+            "category_key": 1003,
+            "category_name": "Car Wash & Detail",
+            "category_parent_key": 51
+        },
+        {
+            "category_key": 1004,
+            "category_name": "Gas Station",
+            "category_parent_key": 51
+        },
+        {
+            "category_key": 1005,
+            "category_name": "Tires",
+            "category_parent_key": 51
+        },
+        {
+            "category_key": 1006,
+            "category_name": "Auto Sales & Warranties",
+            "category_parent_key": 51
+        },
+        {
+            "category_key": 1007,
+            "category_name": "Desserts & Snacks",
+            "category_parent_key": 39
+        },
+        {
+            "category_key": 1008,
+            "category_name": "Fast Food",
+            "category_parent_key": 39
+        },
+        {
+            "category_key": 1009,
+            "category_name": "Casual & Fine Dining",
+            "category_parent_key": 39
+        },
+        {
+            "category_key": 1010,
+            "category_name": "Specialty Foods & Gifts",
+            "category_parent_key": 39
+        },
+        {
+            "category_key": 1011,
+            "category_name": "Catering",
+            "category_parent_key": 39
+        },
+        {
+            "category_key": 1012,
+            "category_name": "Convenience Stores",
+            "category_parent_key": 39
+        },
+        {
+            "category_key": 1013,
+            "category_name": "Fun Centers",
+            "category_parent_key": 59
+        },
+        {
+            "category_key": 1014,
+            "category_name": "Concerts & Events",
+            "category_parent_key": 59
+        },
+        {
+            "category_key": 1015,
+            "category_name": "Museums, Zoos & Tours",
+            "category_parent_key": 59
+        },
+        {
+            "category_key": 1016,
+            "category_name": "Outdoor Adventure",
+            "category_parent_key": 59
+        },
+        {
+            "category_key": 1017,
+            "category_name": "Sporting Events",
+            "category_parent_key": 59
+        },
+        {
+            "category_key": 1018,
+            "category_name": "Amusement Parks",
+            "category_parent_key": 59
+        },
+        {
+            "category_key": 1019,
+            "category_name": "Classes",
+            "category_parent_key": 59
+        },
+        {
+            "category_key": 1020,
+            "category_name": "Golf Courses",
+            "category_parent_key": 48
+        },
+        {
+            "category_key": 1021,
+            "category_name": "Golf Apparel",
+            "category_parent_key": 48
+        },
+        {
+            "category_key": 1022,
+            "category_name": "Golf Equipment",
+            "category_parent_key": 48
+        },
+        {
+            "category_key": 1023,
+            "category_name": "Golf Instruction",
+            "category_parent_key": 48
+        },
+        {
+            "category_key": 1024,
+            "category_name": "Golf Packages",
+            "category_parent_key": 48
+        },
+        {
+            "category_key": 1025,
+            "category_name": "Chiropractic",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1026,
+            "category_name": "Day Spa",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1027,
+            "category_name": "Dental",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1028,
+            "category_name": "Fitness Equipment",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1029,
+            "category_name": "Wellness",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1030,
+            "category_name": "Hearing",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1031,
+            "category_name": "Fitness Centers",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1032,
+            "category_name": "Massage",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1033,
+            "category_name": "Medical",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1034,
+            "category_name": "Tanning Salons",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1035,
+            "category_name": "Cosmetics & Skin Care",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1036,
+            "category_name": "Salon",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1037,
+            "category_name": "Vision",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1038,
+            "category_name": "Weight Management",
+            "category_parent_key": 53
+        },
+        {
+            "category_key": 1039,
+            "category_name": "Home & Garden",
+            "category_parent_key": 0
+        },
+        {
+            "category_key": 1040,
+            "category_name": "Windows",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1041,
+            "category_name": "Siding",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1042,
+            "category_name": "Appliances",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1043,
+            "category_name": "Flooring",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1044,
+            "category_name": "Home Improvement & Repairs",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1045,
+            "category_name": "Cleaning",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1046,
+            "category_name": "Water purification/softening",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1047,
+            "category_name": "Pest Control",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1048,
+            "category_name": "Landscaping",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1049,
+            "category_name": "Hardware Stores",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1050,
+            "category_name": "Garden Centers",
+            "category_parent_key": 1039
+        },
+        {
+            "category_key": 1054,
+            "category_name": "Movie Rentals",
+            "category_parent_key": 56
+        },
+        {
+            "category_key": 1055,
+            "category_name": "Movie Theaters",
+            "category_parent_key": 56
+        },
+        {
+            "category_key": 1056,
+            "category_name": "Appliance Repair",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1057,
+            "category_name": "Carpet Cleaner",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1058,
+            "category_name": "Cell Phone",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1059,
+            "category_name": "Family Care",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1060,
+            "category_name": "Dry Cleaning",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1063,
+            "category_name": "Business Services",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1064,
+            "category_name": "Financial Services",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1065,
+            "category_name": "Locksmith",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1066,
+            "category_name": "Mail/Copy/Print",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1067,
+            "category_name": "Educational Services",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1068,
+            "category_name": "Moving & Storage",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1069,
+            "category_name": "Office Services",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1070,
+            "category_name": "Photography & Photo Printing",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1071,
+            "category_name": "Tax Services",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1072,
+            "category_name": "Transportation",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1073,
+            "category_name": "Tuxedo Rental",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1074,
+            "category_name": "Weddings",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1075,
+            "category_name": "​Cable, Satellite & Internet",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1076,
+            "category_name": "Party & Event Rental",
+            "category_parent_key": 50
+        },
+        {
+            "category_key": 1077,
+            "category_name": "Apparel & Accessories",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1078,
+            "category_name": "Art",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1079,
+            "category_name": "Baby/Maternity",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1080,
+            "category_name": "Bath & Body",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1081,
+            "category_name": "Boutique",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1082,
+            "category_name": "Bridal",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1083,
+            "category_name": "Crafts",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1084,
+            "category_name": "Cycling",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1085,
+            "category_name": "Department Stores",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1086,
+            "category_name": "Electronics",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1087,
+            "category_name": "Flowers",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1088,
+            "category_name": "Fragrance",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1089,
+            "category_name": "Framing",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1090,
+            "category_name": "Furniture",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1091,
+            "category_name": "Gifts",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1092,
+            "category_name": "Jewelry",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1093,
+            "category_name": "Luggage & Travel Accessories",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1094,
+            "category_name": "Movies, Music & Books",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1095,
+            "category_name": "Office Supplies",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1096,
+            "category_name": "Outdoor Equipment",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1097,
+            "category_name": "Pets",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1098,
+            "category_name": "Publications",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1099,
+            "category_name": "Sporting Goods",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1100,
+            "category_name": "Toys",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1101,
+            "category_name": "Wireless",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1102,
+            "category_name": "Other Shopping",
+            "category_parent_key": 45
+        },
+        {
+            "category_key": 1103,
+            "category_name": "Ski Gear & Rentals",
+            "category_parent_key": 55
+        },
+        {
+            "category_key": 1104,
+            "category_name": "Snow Sports",
+            "category_parent_key": 55
+        },
+        {
+            "category_key": 1105,
+            "category_name": "Ski Lessons",
+            "category_parent_key": 55
+        },
+        {
+            "category_key": 1106,
+            "category_name": "Cross Country Ski",
+            "category_parent_key": 55
+        },
+        {
+            "category_key": 1107,
+            "category_name": "Ski Resort",
+            "category_parent_key": 55
+        },
+        {
+            "category_key": 1108,
+            "category_name": "Ski Packages",
+            "category_parent_key": 55
+        },
+        {
+            "category_key": 1113,
+            "category_name": "Business & Office",
+            "category_parent_key": 0
+        }
+    ]
+}

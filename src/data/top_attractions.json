@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "San Diego Zoo",
+        "image": "https://booking.accessdevelopment.com/static/media/9b90d5741672a1cde58a.webp",
+        "location": "Balboa Park",
+        "rating": 4.9,
+        "price": "$115",
+        "final_price": "$60"
+    },
+    {
+        "id": 2,
+        "title": "Ground Zero & 9/11 Walking Tour",
+        "image": "https://booking.accessdevelopment.com/static/media/fbf430899701e40641dd.webp",
+        "location": "Downtown",
+        "rating": 4.9,
+        "price": "$30",
+        "final_price": "$26"
+    },
+    {
+        "id": 3,
+        "title": "Hollywood On Location Bikes",
+        "image": "https://booking.accessdevelopment.com/static/media/9363ace6e03e38afc6a0.webp",
+        "location": "Culver City",
+        "rating": 4.9,
+        "price": "$18",
+        "final_price": "$15"
+    }
+]

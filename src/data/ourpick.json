@@ -1,0 +1,179 @@
+{
+    "stores": [
+        {
+            "store_key": 335448887,
+            "name": "Samsung",
+            "logo_url": "https://static.accessdevelopment.com/brand/6d5ced9f9dcf7bf9b0826fb91bb9a5f8aa0b014c/Samsung335448887.png",
+            "offer_count": 2,
+            "closest_location_distance": null,
+            "average_offer_value": "239.98",
+            "total_redeems": 3992271,
+            "categories": [
+                45,
+                1086,
+                1101,
+                1113
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/e9faedbc13051c649f25069a03862d5a3490f5d3/Samsung335448887_CouponImage_675x675.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/d8711e81645980a2483c8943ab98b54b53b63acd/Samsung335448887_BannerImage_1500X500.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/4a8f3e1437a48aebb9c8c5e715503cf3b04a1e6a/Samsung335448887_photo3.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/45d19f38a76dc06ca8eae09840073eba57d1a579/Samsung335448887_photo4.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/10c34055127d22c2eceff196a9cb7d773858428e/Samsung335448887_photo5.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 18939000,
+            "name": "Papa John's®",
+            "logo_url": "https://static.accessdevelopment.com/brand/eea60774d245f4dabad6647a738e3685f1ee7da5/PJ_Logo_300X300.png",
+            "offer_count": 254,
+            "closest_location_distance": null,
+            "average_offer_value": "7.88",
+            "total_redeems": 1539608,
+            "categories": [
+                39,
+                1008,
+                1009
+            ],
+            "online_exclusive": [
+                false,
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/b65c912b00bb3b12562c1a2cf2ba9d4acbe4312b/PapaJohns18939000_CouponImage.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/146a0ee9536c3011fcb4b1ee2c709252f84f479f/PapaJohns18939000_BannerImage.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/9a2fd9ff1ebebc6c8ff3e90ba77bcff131bc2643/PapaJohns18939000_photo4.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/d527013de86295fc6bc0c8f1b2283bbfef04d12c/PapaJohns18939000_photo5.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 371753728,
+            "name": "Topgolf",
+            "logo_url": "https://static.accessdevelopment.com/brand/b6676c0586597689dcf1e920de5b704928efbe6b/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "10",
+            "total_redeems": 126850,
+            "categories": [
+                48,
+                59,
+                1013,
+                1020
+            ],
+            "online_exclusive": [
+                false,
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/eebee805375e27060ed6299a9af28573a38f897e/Topgolf371753728_CouponImage.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/283ce597172bd9a2c3e80873bd1a9379336a28d6/Topgolf371753728_BannerImage.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/77a403a938bfd0f903165907d28fa679357dd5d8/Topgolf371753728_photo3.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/ecdf71270115bdf600af98ee90cb7861d7cf9143/Topgolf_371753728_photo2_880x410.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/32e02a3607cbd6bb74f094b3d4fd211f6f88a28a/Topgolf371753728_photo5.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/e153f1c2ae149ff121821836292c07b45188ae48/Topgolf_371753728_photo6x_984x400.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 18939189,
+            "name": "Sam's Club",
+            "logo_url": "https://static.accessdevelopment.com/brand/57f2200f3da2c6a37d37b677894e9415acb2dfc2/original.jpg",
+            "offer_count": 2,
+            "closest_location_distance": null,
+            "average_offer_value": "26.75",
+            "total_redeems": 46455,
+            "categories": [
+                45,
+                1077,
+                1085,
+                1086,
+                1100,
+                1113
+            ],
+            "online_exclusive": [
+                false,
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/451fd506eca478f31e2660bdf10c501a1780712e/SamsClub_CouponImage_700x700.png"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/2418aa5c937b517f36453c2c19b36ef0f47b0c9f/SamsClub_OfferHeader_1500x500.png"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/b3575fcf65a12f677e05a290d18844f45e573a4d/SamsClub_Image01_460X300.png",
+                    "https://static.accessdevelopment.com/brand/photo/20e338572f7982c5866e417e92d5de5064172c4a/SamsClub_Image02_460X300.png",
+                    "https://static.accessdevelopment.com/brand/photo/37a8ef29ef3d4bf52b694d7703a6d5ddb5549140/SamsClub_Image03_460X300.png",
+                    "https://static.accessdevelopment.com/brand/photo/6e6427963aa5b79966eb844e025f3705da6f3454/SamsClub_Image04_460X300.png",
+                    "https://static.accessdevelopment.com/brand/photo/04d6c0f016cb7ecd88fc0c06f146c88fac450f2c/SamsClub_Image05_460X300.png"
+                ]
+            }
+        }
+    ],
+    "category_count": {
+        "39": 1,
+        "45": 2,
+        "48": 1,
+        "59": 1,
+        "1008": 1,
+        "1009": 1,
+        "1013": 1,
+        "1020": 1,
+        "1077": 1,
+        "1085": 1,
+        "1086": 2,
+        "1100": 1,
+        "1101": 1,
+        "1113": 2
+    },
+    "distances_count": {
+        "online_exclusive_true": 4
+    },
+    "how_to_redeem_count": {
+        "in_person": 2,
+        "redeem_online": 3
+    },
+    "info": {
+        "total_results": 4,
+        "total_brands": 4,
+        "total_offers": 259,
+        "current_page": 1,
+        "total_pages": 1,
+        "results_per_page": 25,
+        "offer_offset": 0,
+        "after_key": null
+    }
+}

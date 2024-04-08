@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "data": {
+        "program_type": "wholesale",
+        "stats": [
+            {
+                "destination": "all__all__all",
+                "member_count": 367,
+                "maximum_amount": 90
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Marriott Marquis Times Square",
+        "image": "https://booking.accessdevelopment.com/static/media/1c9ca47ac9affdfb03ce.webp",
+        "location": "Times Square",
+        "rating": 4.9,
+        "price": "$250",
+        "final_price": "$147"
+    },
+    {
+        "id": 2,
+        "title": "W Las Vegas",
+        "image": "https://booking.accessdevelopment.com/static/media/52366349d9737c486979.webp",
+        "location": "North Las Vegas",
+        "rating": 4.9,
+        "price": "$120",
+        "final_price": "$77"
+    },
+    {
+        "id": 3,
+        "title": "Doubletree Orlando",
+        "image": "https://booking.accessdevelopment.com/static/media/41fb2cfb6a4c325c256e.webp",
+        "location": "Universal Studios",
+        "rating": 4.9,
+        "price": "$109",
+        "final_price": "$78"
+    }
+]

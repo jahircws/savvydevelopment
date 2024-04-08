@@ -1,0 +1,525 @@
+{
+    "stores": [
+        {
+            "store_key": 29803307,
+            "name": "HSN",
+            "logo_url": "https://static.accessdevelopment.com/brand/242048619b0daa764b2bed2d2d3a76b72d717bf1/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "5",
+            "total_redeems": 5840,
+            "categories": [
+                45,
+                53,
+                1029,
+                1038,
+                1102
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {}
+        },
+        {
+            "store_key": 18939031,
+            "name": "Petco",
+            "logo_url": "https://static.accessdevelopment.com/brand/0b36f991b48e6e4cd363889899fd485f968c4404/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "10",
+            "total_redeems": 219000,
+            "categories": [
+                45,
+                1097
+            ],
+            "online_exclusive": [
+                false,
+                true,
+                null
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/df2989476746d9f327381dd8e2e33c921bf82006/Petco18939031_CouponImage_675x675.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/efacbef8bf86b5a1a570769e741844cb8b11fdad/Petco18939031_BannerImage_1500x500.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/866aa9581e8e2ad1e2e163ff69e02bbee37be0ad/Petco18939031_photo3.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/3cf5c5ce6d326dfd0b27147d731d56ac1ff9d4d5/Petco18939031_photo4.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/52e809aac757282d6b736be9b1ba2cc8427d0aee/Petco18939031_photo5.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 18939365,
+            "name": "The Children's Place",
+            "logo_url": "https://static.accessdevelopment.com/brand/13a13a4205e5afa54fcfad7a9cb24a5647b85406/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "41",
+            "total_redeems": 73710,
+            "categories": [
+                45,
+                1079,
+                1102
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/c6e799e9c5f13cacddbbbe2cde85e39916826f70/ChildrensPlaceBanner1.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 19000640,
+            "name": "Home Depot",
+            "logo_url": "https://static.accessdevelopment.com/brand/45c76bb4c0df84d9fa1d8976d5763fc97a45d5fb/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "6",
+            "total_redeems": 1042170,
+            "categories": [
+                1039,
+                1040,
+                1041,
+                1042,
+                1043,
+                1044,
+                1048,
+                1049,
+                1050
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/a0684979597604e0dcbe30de1817824eed384c53/HomeDepot19000640_CouponImage.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/9757dfc4fee8af44f701f844fe8b24f3663c923a/HomeDepot19000640_BannerImage.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/338ed22d2a9b1bc2085da165d1bfcac62bb50cc1/HomeDepot19000640_photo3.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/2ee55e383e20b5bc104d3891af080622a7eff0e4/HomeDepot19000640_photo4.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/3d833916e05e5d3d6cd4511bc0f2ade7c8cb0fb6/HomeDepot19000640_photo5.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 25724281,
+            "name": "adidas",
+            "logo_url": "https://static.accessdevelopment.com/brand/fd876458fecebd02b8888b51fe2752bd43311d78/original.png",
+            "offer_count": 2,
+            "closest_location_distance": null,
+            "average_offer_value": "13.26",
+            "total_redeems": 125928,
+            "categories": [
+                45,
+                1077,
+                1099
+            ],
+            "online_exclusive": [
+                false,
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/0b42a8c4818e1b4609380537ea7b418b7f588064/adidas25724281_CouponImage.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/c3bd88ddae5f5d441eb271ecbb9d92d5ff453f41/adidas25724281_Banner.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/d9b2c79dbc624e128929bc0d6348e20ed8087789/adidas25724281_photo3.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/4b0bfd1287c2438cb3d24442b93cc7854aebcabc/adidas25724281_photo4.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/4d371c2a81de94b4bac378b0bb03f55cb23c9c04/adidas25724281_photo5.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/4a8285952c591aa2c49b1098608dbd9f6b1bc7b3/adidas25724281_photo6.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/195abd79b40164dde6801c47f3e8ec5b770b9a5d/adidas25724281_photo7.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 18938974,
+            "name": "Old Navy",
+            "logo_url": "https://static.accessdevelopment.com/brand/8b1b9982a1c5df0e9275d746d571a44101767dac/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "5",
+            "total_redeems": 91944,
+            "categories": [
+                45,
+                1077,
+                1102
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {}
+        },
+        {
+            "store_key": 18939339,
+            "name": "Sur La Table",
+            "logo_url": "https://static.accessdevelopment.com/brand/8e0bbe7770ab45ea1cd6b19f31aec1c041031ca1/SurLaTable_Logo_300x300.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "6",
+            "total_redeems": 5610,
+            "categories": [
+                45,
+                1102
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/6e20c370917316075e9b95add49518a5ab9d8810/SurLaTable18939339_CouponImage.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/95d1bba9611097c627c718e69cbde779ab6ecdff/SurLaTable18939339_BannerImage.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/2f1ee9cbc2fef591cde45b456fb019af468b2ce3/SurLaTable18939339_photo3.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/3d076678a72b00d17d66a098f8c44ac7b9a00143/SurLaTable18939339_photo4.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/b308dcba55fce72eeeaca9945f105d1f32a07fb3/SurLaTable18939339_photo5.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 51993688,
+            "name": "Carter's",
+            "logo_url": "https://static.accessdevelopment.com/brand/c755d07c42130231f29b9c8f8b1e04457df936c7/original.png",
+            "offer_count": 2,
+            "closest_location_distance": null,
+            "average_offer_value": "0.03",
+            "total_redeems": 13505,
+            "categories": [
+                45,
+                1077,
+                1102
+            ],
+            "online_exclusive": [
+                false,
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/e702bb3e3274ca751a8ae2842e407760cbf566c8/Carters51993688_CouponImage.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/72c8314396f47528e5ddfbfe244d06b2a2a04b3f/Carters51993688_BannerImage.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/a8955a5966e443364823e8b4a1e0028fc4885253/Carters51993688_photo3.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/4e0216b4b47d8fcfdabf559d32e386439274e11a/Carters51993688_photo4.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/f1ca0b05e2d010f876c1dbba0dc651e4df4a9fd0/Carters51993688_photo5.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 18964253,
+            "name": "GAP",
+            "logo_url": "https://static.accessdevelopment.com/brand/be0cf91893e634dc5fdb5b7f1e08c261e405681c/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "3",
+            "total_redeems": 17015,
+            "categories": [
+                45,
+                1077,
+                1102
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {}
+        },
+        {
+            "store_key": 18938143,
+            "name": "Best Buy",
+            "logo_url": "https://static.accessdevelopment.com/brand/d00de392e32c69e583c7ac77af6aeb74fb82be00/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "5",
+            "total_redeems": 56916,
+            "categories": [
+                45,
+                1086,
+                1102
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/857ee6a5bce14a2b4e7fa5b077fdf75ab5d43c3e/BB18938143_Banner.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/5b50b0618e15c38ba38574e4071dab3e60029e22/BB18938143_Photo1.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/d4d1c0b7a183a3573b068b188b7a945995059c6f/BB18938143_Photo2.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/ebf224e0d7b1460ad96be84bd0d8339d931bb04b/BB18938143_Photo3.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 18938756,
+            "name": "Kohl's",
+            "logo_url": "https://static.accessdevelopment.com/brand/90873c76733f877ed667759fa9cb23accd567406/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "15",
+            "total_redeems": 379974,
+            "categories": [
+                45,
+                1077
+            ],
+            "online_exclusive": [
+                false,
+                true,
+                null
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/8e9e2aa721b0459bb87061b85d6dcd702fca03b4/Kohls18938756_CouponImage.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/4d3f35e8a8bd40f98e2da7f0cff2f963f5a808e5/Kohls18938756_BannerImage.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/07b171142c63b8202ffa8748b78bbb26c76c4abb/Kohls18938756_photo3.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/706ec837e16f5ee88e41576ebd8da991429385c6/Kohls18938756_photo4.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/0996f6c27d8eee632ac17e627bb74ffc10d77ce5/Kohls18938756_photo5.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 18938071,
+            "name": "Apple",
+            "logo_url": "https://static.accessdevelopment.com/brand/0943dcb67fda2c7f9417fec06aa686abcbfc8dc5/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "200",
+            "total_redeems": 715456,
+            "categories": [
+                45,
+                1086,
+                1091,
+                1100,
+                1101,
+                1113
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/6078bb06ca112bed62d07a5b3ea7c61afdd43889/Apple18938071_CouponImage.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/ef2f5c995c7e77c754bc9e608f0e6dc87df6d8dc/Apple_18938071_BannerImage_1500x500.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/eb4382468ad2acccaf2c770d617c087ca9720e17/Apple_18938071_photo2.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/2dfc59fd97d3ff74a3891ecaec61db7bbc4b3a81/Apple_18938071_photo1.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/43ccd8f472d96bcfbb49550435b3074b7dbca487/Apple_18938071_photo3.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 18939350,
+            "name": "Target",
+            "logo_url": "https://static.accessdevelopment.com/brand/a0d80e2497509038f8c193937cfb37a503b9c338/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "0",
+            "total_redeems": 732212,
+            "categories": [
+                45,
+                1077,
+                1079,
+                1080,
+                1085,
+                1086,
+                1090,
+                1091,
+                1092,
+                1095,
+                1096,
+                1099,
+                1100,
+                1102
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/8f70a9dafa2bfd2fea8d5ea922461313eae09b04/Target18939350_CouponImage.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/267b8d8a4afba22ca5701790afca1c8806cc4a18/Target_18939350_BannerImage.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/cce1278d402ecd10b78d7f9726248f3a712b7964/Target18939350_photo3.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/26e62ef934550e0fafd39d8de5c94a83e8f5bc0a/Target18939350_photo4.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/76c4066b17e7adbf0e1f320d79d30e8e6e7db7b2/Target18939350_photo5.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 29666475,
+            "name": "Athleta",
+            "logo_url": "https://static.accessdevelopment.com/brand/dd1681640adff693d19308ec0488c38d86375908/athletalogo24.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "6",
+            "total_redeems": 62244,
+            "categories": [
+                45,
+                1102
+            ],
+            "online_exclusive": [
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/f18d1eabfec57bc3bfb99c37734a0694da950d29/athleta29666475_banner.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/62e9417896e2a96f45df8422817b100b20421639/athleta29666475_photo1.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/b103a464504155f2a88e5ea894fc15d7ab9e603a/athleta29666475_photo2.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/e8865d7346485ac84470dd22c2f92fca4cd91228/athleta29666475_photo3.jpg"
+                ]
+            }
+        },
+        {
+            "store_key": 18938221,
+            "name": "Cabela's",
+            "logo_url": "https://static.accessdevelopment.com/brand/2b157e543c26c04bd18af85cf853dbcb4360691d/original.png",
+            "offer_count": 1,
+            "closest_location_distance": null,
+            "average_offer_value": "15",
+            "total_redeems": 200,
+            "categories": [
+                45,
+                1077,
+                1096,
+                1099
+            ],
+            "online_exclusive": [
+                false,
+                true
+            ],
+            "geo_location": null,
+            "location_key": null,
+            "savings_amount": null,
+            "brand_photos": {
+                "COUPON": [
+                    "https://static.accessdevelopment.com/brand/photo/bf46f4eb76183afdd70265f21d0ba702494e68e4/Cabelas_18938221_Coupon_Background_700x700_02232022.jpg"
+                ],
+                "BANNER": [
+                    "https://static.accessdevelopment.com/brand/photo/be13941239789d3f035384371bddd5205704b591/Cabelas_18938221_Offer_Page_1500x500_02232022.jpg"
+                ],
+                "PHOTO": [
+                    "https://static.accessdevelopment.com/brand/photo/ff263759fe91f22b8bd9a2ca893b8d54898ee054/cabelas18938221_photo1.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/67decbe6547ab694495505304ac2ede7622fe762/cabelas18938221_photo2.jpg",
+                    "https://static.accessdevelopment.com/brand/photo/5c5ca4d3d8bb0d1afa7d352c0550be72cd9f9fc3/cabelas18938221_photo3.jpg"
+                ]
+            }
+        }
+    ],
+    "category_count": {
+        "45": 14,
+        "53": 1,
+        "1029": 1,
+        "1038": 1,
+        "1039": 1,
+        "1040": 1,
+        "1041": 1,
+        "1042": 1,
+        "1043": 1,
+        "1044": 1,
+        "1048": 1,
+        "1049": 1,
+        "1050": 1,
+        "1077": 7,
+        "1079": 2,
+        "1080": 1,
+        "1085": 1,
+        "1086": 3,
+        "1090": 1,
+        "1091": 2,
+        "1092": 1,
+        "1095": 1,
+        "1096": 2,
+        "1097": 1,
+        "1099": 3,
+        "1100": 2,
+        "1101": 1,
+        "1102": 9,
+        "1113": 1
+    },
+    "distances_count": {
+        "online_exclusive_true": 15
+    },
+    "how_to_redeem_count": {
+        "in_person": 2,
+        "redeem_online": 15
+    },
+    "info": {
+        "total_results": 15,
+        "total_brands": 15,
+        "total_offers": 17,
+        "current_page": 1,
+        "total_pages": 1,
+        "results_per_page": 25,
+        "offer_offset": 0,
+        "after_key": null
+    }
+}
